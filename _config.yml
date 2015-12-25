@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ausrora.github.io
+title: ausrora
+paginate: 10
